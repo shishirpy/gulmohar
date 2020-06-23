@@ -6,5 +6,5 @@ We want to achieve the following:
 
 ## Introduction
 
-This project aims to create the fastest way to server your functions.
+This project aims to create the fastest way to serve your functions.
 
